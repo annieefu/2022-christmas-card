@@ -28,7 +28,7 @@
 
 	<div id = "vimeo-frame" style="padding:75% 0 0 0;position:relative; z-index: 5;">
 		<iframe
-			src="https://player.vimeo.com/video/784201938?h=358a9ec42e&amp;autoplay=1&amp;muted=1&amp;controls=false&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+			src="https://player.vimeo.com/video/784201938?h=358a9ec42e&amp;autoplay=1&amp;muted=1&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
 			frameborder="0"
 			allow="autoplay; fullscreen;"
 			allowfullscreen
