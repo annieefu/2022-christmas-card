@@ -3,9 +3,6 @@
 </script>
 
 <header>
-	<div class="wordmark">
-		<a href="https://pudding.cool" aria-label="The Pudding">{@html wordmark}</a>
-	</div>
 </header>
 
 <style>
