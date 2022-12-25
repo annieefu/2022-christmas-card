@@ -958,10 +958,10 @@
     <style>
         .christmas-title{
                 position: absolute;
-                width: 70%;
-                left: 15%;
-                right: 15%;
-                top: 10%;
+                width: 80%;
+                left: 10%;
+                right: 10%;
+                top: 8%;
             }
     path {
         stroke: #fff;
@@ -1048,12 +1048,25 @@
     
         .christmas-title{
             position: absolute;
-            width: 50%;
-            left: 25%;
-            right: 25%;
-            top: 12%;
+            width: 70%;
+            left: 15%;
+            right: 15%;
+            top: 10%;
         }
     
     }
+
+
+    @media (min-width: 960px) {
+    
+    .christmas-title{
+        position: absolute;
+        width: 50%;
+        left: 25%;
+        right: 25%;
+        top: 10%;
+    }
+
+}
     
     </style>

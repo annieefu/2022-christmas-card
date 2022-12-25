@@ -5,10 +5,12 @@
 	// import Footer from "$components/Footer.svelte";
 	import Snow from '$components/card/Snow.svelte';
 
-import Title from '$components/card/Title.svelte';
+	import Title from '$components/card/Title.svelte';
+	import VideoPlayer from '$components/card/VideoPlayer.svelte';
 
 	// const copy = getContext("copy");
 	// const data = getContext("data");
+	
 </script>
 <!-- 
 <WIP />
@@ -18,6 +20,7 @@ import Title from '$components/card/Title.svelte';
 <div class="whole=wrapper">
 	<Snow />
 	<Title />
+	<VideoPlayer />
 </div>
 <!-- <Footer /> -->
 

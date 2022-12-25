@@ -1,13 +1,14 @@
 <script>
-	export let title = "Title TK";
-	export let description = "Description TK";
-	export let url = "https://pudding.cool";
+	export let title = "Christmas Card 2022";
+	export let description = "A Christmas Card by Annie Fu";
+	export let url = "";
 	export let keywords = "";
 	export let preloadFont = [];
 </script>
 
 <svelte:head>
-	<title>{title}</title>
+	
+	<title>Christmas Card 2022</title>
 	<meta name="description" content={description} />
 	<meta name="author" content="The Pudding" />
 	<meta name="news_keywords" content={keywords} />

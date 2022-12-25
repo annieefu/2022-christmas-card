@@ -215,6 +215,7 @@
   -o-animation: fadeIn 3s;
   -ms-animation: fadeIn 3s;
 animation-fill-mode: forwards;
+z-index: 96;
 }
 
 
