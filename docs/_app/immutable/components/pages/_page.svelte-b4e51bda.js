@@ -1,187 +1,4 @@
-<!doctype html>
-<html lang="en">
-
-<head>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<meta http-equiv="content-security-policy" content="">
-		<link href="./_app/immutable/assets/_layout-76f42e1a.css" rel="stylesheet">
-		<link href="./_app/immutable/assets/_page-70cb45e4.css" rel="stylesheet">
-		<link rel="modulepreload" href="./_app/immutable/start-0b2e99ae.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/index-804fe23f.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/singletons-10c19907.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/paths-b4419565.js">
-		<link rel="modulepreload" href="./_app/immutable/components/pages/_layout.svelte-19301d0d.js">
-		<link rel="modulepreload" href="./_app/immutable/modules/pages/_layout.js-5612100c.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/_layout-79cb23d1.js">
-		<link rel="modulepreload" href="./_app/immutable/components/pages/_page.svelte-b4e51bda.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/transform-5e7ee1ee.js"><title>Title TK</title><!-- HEAD_svelte-1htu80s_START --><meta name="description" content="Description tk."><meta name="author" content="The Pudding"><meta name="news_keywords" content=""><meta property="og:title" content="Title TK"><meta property="og:site_name" content="The Pudding"><meta property="og:url" content="https://pudding.cool"><meta property="og:description" content="Description tk."><meta property="og:type" content="article"><meta property="og:locale" content="en_US"><meta property="og:image" content="https://pudding.cool/assets/social-facebook.jpg"><meta property="og:image:type" content="image/jpeg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="600"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="https://pudding.cool"><meta name="twitter:creator" content="@puddingviz"><meta name="twitter:title" content="Title TK"><meta name="twitter:description" content="Description tk."><meta name="twitter:image:src" content="https://pudding.cool/assets/social-twitter.jpg"><meta name="robots" content="max-image-preview:large"><link rel="canonical" href="https://pudding.cool/"><link rel="preload" href="https://pudding.cool/assets/fonts/tiempos/TiemposTextWeb-Regular.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="https://pudding.cool/assets/fonts/tiempos/TiemposTextWeb-Bold.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="https://pudding.cool/assets/fonts/national/National2Web-Regular.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="https://pudding.cool/assets/fonts/national/National2Web-Bold.woff2" as="font" type="font/woff2" crossorigin><!-- HEAD_svelte-1htu80s_END -->
-</head>
-
-<body>
-	<!-- <a href="#content" class="skip-to-main">Skip to main content</a> -->
-	<div>
-
-
-<header></header>
-<main id="content">
-
-
-
-<div class="whole=wrapper"><div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-<div class="snow svelte-15gjj16"></div>
-
-<div class="snow svelte-15gjj16"></div>
-	<div class="christmas-title svelte-7y78nn"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 463 73.5" style="enable-background:new 0 0 463 73.5;" xml:space="preserve"><style type="text/css">.st0{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}</style><g><path class="st0 svelte-7y78nn" d="M40.8,59.1c0-1.3-0.3-2.4-1-3.1c-0.4-0.4-1.2-0.9-2.4-1.5c-0.7-0.3-1.3-0.6-1.8-1c-0.5-0.3-0.9-0.6-1.2-1
+import{S as p2,i as V2,s as _2,k as v,e as y4,I as F4,l as f,h as l,n as t,G as j,B as c0,J as b4,b as s,a as M,m as n,c as z,K as y,q as r4,L as r,r as L4,p as H4,w as p4,x as V4,y as _4,f as D4,t as I4,z as o4,M as T4}from"../../chunks/index-804fe23f.js";import"../../chunks/transform-5e7ee1ee.js";function k4(_,C,i){const E=_.slice();return E[5]=C[i],E}function S4(_){let C,i;return{c(){C=v("link"),this.h()},l(E){C=f(E,"LINK",{rel:!0,href:!0,as:!0,type:!0,crossorigin:!0}),this.h()},h(){t(C,"rel","preload"),t(C,"href",i=_[5]),t(C,"as","font"),t(C,"type","font/woff2"),t(C,"crossorigin","")},m(E,p){s(E,C,p)},p(E,p){p&16&&i!==(i=E[5])&&t(C,"href",i)},d(E){E&&l(C)}}}function x4(_){let C,i,E,p,u,m,D,I,T,a,S,G,F,B,b,K,H,N,A,R,$,X,P,q,J,U;document.title=C=_[0];let W=_[4],L=[];for(let V=0;V<W.length;V+=1)L[V]=S4(k4(_,W,V));return{c(){i=v("meta"),E=v("meta"),p=v("meta"),u=v("meta"),m=v("meta"),D=v("meta"),I=v("meta"),T=v("meta"),a=v("meta"),S=v("meta"),F=v("meta"),B=v("meta"),b=v("meta"),K=v("meta"),H=v("meta"),N=v("meta"),A=v("meta"),R=v("meta"),$=v("meta"),P=v("meta"),q=v("link");for(let V=0;V<L.length;V+=1)L[V].c();U=y4(),this.h()},l(V){const w=F4("svelte-1htu80s",document.head);i=f(w,"META",{name:!0,content:!0}),E=f(w,"META",{name:!0,content:!0}),p=f(w,"META",{name:!0,content:!0}),u=f(w,"META",{property:!0,content:!0}),m=f(w,"META",{property:!0,content:!0}),D=f(w,"META",{property:!0,content:!0}),I=f(w,"META",{property:!0,content:!0}),T=f(w,"META",{property:!0,content:!0}),a=f(w,"META",{property:!0,content:!0}),S=f(w,"META",{property:!0,content:!0}),F=f(w,"META",{property:!0,content:!0}),B=f(w,"META",{property:!0,content:!0}),b=f(w,"META",{property:!0,content:!0}),K=f(w,"META",{name:!0,content:!0}),H=f(w,"META",{name:!0,content:!0}),N=f(w,"META",{name:!0,content:!0}),A=f(w,"META",{name:!0,content:!0}),R=f(w,"META",{name:!0,content:!0}),$=f(w,"META",{name:!0,content:!0}),P=f(w,"META",{name:!0,content:!0}),q=f(w,"LINK",{rel:!0,href:!0});for(let o=0;o<L.length;o+=1)L[o].l(w);U=y4(),w.forEach(l),this.h()},h(){t(i,"name","description"),t(i,"content",_[1]),t(E,"name","author"),t(E,"content","The Pudding"),t(p,"name","news_keywords"),t(p,"content",_[3]),t(u,"property","og:title"),t(u,"content",_[0]),t(m,"property","og:site_name"),t(m,"content","The Pudding"),t(D,"property","og:url"),t(D,"content",_[2]),t(I,"property","og:description"),t(I,"content",_[1]),t(T,"property","og:type"),t(T,"content","article"),t(a,"property","og:locale"),t(a,"content","en_US"),t(S,"property","og:image"),t(S,"content",G=_[2]+"/assets/social-facebook.jpg"),t(F,"property","og:image:type"),t(F,"content","image/jpeg"),t(B,"property","og:image:width"),t(B,"content","1200"),t(b,"property","og:image:height"),t(b,"content","600"),t(K,"name","twitter:card"),t(K,"content","summary_large_image"),t(H,"name","twitter:site"),t(H,"content","https://pudding.cool"),t(N,"name","twitter:creator"),t(N,"content","@puddingviz"),t(A,"name","twitter:title"),t(A,"content",_[0]),t(R,"name","twitter:description"),t(R,"content",_[1]),t($,"name","twitter:image:src"),t($,"content",X=_[2]+"/assets/social-twitter.jpg"),t(P,"name","robots"),t(P,"content","max-image-preview:large"),t(q,"rel","canonical"),t(q,"href",J=_[2]+"/")},m(V,w){j(document.head,i),j(document.head,E),j(document.head,p),j(document.head,u),j(document.head,m),j(document.head,D),j(document.head,I),j(document.head,T),j(document.head,a),j(document.head,S),j(document.head,F),j(document.head,B),j(document.head,b),j(document.head,K),j(document.head,H),j(document.head,N),j(document.head,A),j(document.head,R),j(document.head,$),j(document.head,P),j(document.head,q);for(let o=0;o<L.length;o+=1)L[o].m(document.head,null);j(document.head,U)},p(V,[w]){if(w&1&&C!==(C=V[0])&&(document.title=C),w&2&&t(i,"content",V[1]),w&8&&t(p,"content",V[3]),w&1&&t(u,"content",V[0]),w&4&&t(D,"content",V[2]),w&2&&t(I,"content",V[1]),w&4&&G!==(G=V[2]+"/assets/social-facebook.jpg")&&t(S,"content",G),w&1&&t(A,"content",V[0]),w&2&&t(R,"content",V[1]),w&4&&X!==(X=V[2]+"/assets/social-twitter.jpg")&&t($,"content",X),w&4&&J!==(J=V[2]+"/")&&t(q,"href",J),w&16){W=V[4];let o;for(o=0;o<W.length;o+=1){const O=k4(V,W,o);L[o]?L[o].p(O,w):(L[o]=S4(O),L[o].c(),L[o].m(U.parentNode,U))}for(;o<L.length;o+=1)L[o].d(1);L.length=W.length}},i:c0,o:c0,d(V){l(i),l(E),l(p),l(u),l(m),l(D),l(I),l(T),l(a),l(S),l(F),l(B),l(b),l(K),l(H),l(N),l(A),l(R),l($),l(P),l(q),b4(L,V),l(U)}}}function $4(_,C,i){let{title:E="Title TK"}=C,{description:p="Description TK"}=C,{url:u="https://pudding.cool"}=C,{keywords:m=""}=C,{preloadFont:D=[]}=C;return _.$$set=I=>{"title"in I&&i(0,E=I.title),"description"in I&&i(1,p=I.description),"url"in I&&i(2,u=I.url),"keywords"in I&&i(3,m=I.keywords),"preloadFont"in I&&i(4,D=I.preloadFont)},[E,p,u,m,D]}class a4 extends p2{constructor(C){super(),V2(this,C,$4,x4,_2,{title:0,description:1,url:2,keywords:3,preloadFont:4})}}function B4(_){let C,i,E,p,u,m,D,I,T,a,S,G,F,B,b,K,H,N,A,R,$,X,P,q,J,U,W,L,V,w,o,O,Q,l0,h,Z,d,g,Y,k,s0,x,e0,u0,t0,j0,n0,E0,v0,w0,f0,m0,M0,p0,z0,V0,i0,C0,_0,D2,D0,I2,I0,o2,o0,y2,y0,r2,r0,L2,L0,T2,T0,k2,k0,S2,S0,A2,A0,F2,F0,b2,b0,H2,H0,x2,x0,$2,$0,a2,a0,B2,B0,K2,K0,N2,N0,P2,P0,W2,W0,R2,R0,q2,q0,G2,G0,J2,J0,U2,U0,X2,X0,Y2,Y0,O2,O0,Q2,Q0,Z2,Z0,h2,h0,d2,d0,g2,g0,c3,c1,l3,l1,s3,s1,e3,e1,t3,t1,n3,n1,v3,v1,f3,f1,M3,M1,z3,z1,i3,i1,C3,C1,u3,u1,j3,j1,E3,E1,w3,w1,m3,m1,p3,p1,V3,V1,_3,_1,D3,D1,I3,I1,o3,o1,y3,y1,r3,r1,L3,L1,T3,T1,k3,k1,S3,S1,A3,A1,F3,F1,b3,b1,H3,H1,x3,x1,$3,$1,a3,a1,B3,B1,K3,K1,N3,N1,P3,P1,W3,W1,R3,R1,q3,q1,G3,G1,J3,J1,U3,U1,X3,X1,Y3,Y1,O3,O1,Q3,Q1,Z3,Z1,h3,h1,d3,d1,g3,g1,c4,c2,l4,l2,s4,s2,e4,e2,t4,t2,n4,n2,v4,v2,f4,f2,M4,M2,z4,z2,i4,i2,C4,C2,u4,u2,j4,j2,E4,E2,w4,w2,m4,m2;return{c(){C=v("div"),i=M(),E=v("div"),p=M(),u=v("div"),m=M(),D=v("div"),I=M(),T=v("div"),a=M(),S=v("div"),G=M(),F=v("div"),B=M(),b=v("div"),K=M(),H=v("div"),N=M(),A=v("div"),R=M(),$=v("div"),X=M(),P=v("div"),q=M(),J=v("div"),U=M(),W=v("div"),L=M(),V=v("div"),w=M(),o=v("div"),O=M(),Q=v("div"),l0=M(),h=v("div"),Z=M(),d=v("div"),g=M(),Y=v("div"),k=M(),s0=v("div"),x=M(),e0=v("div"),u0=M(),t0=v("div"),j0=M(),n0=v("div"),E0=M(),v0=v("div"),w0=M(),f0=v("div"),m0=M(),M0=v("div"),p0=M(),z0=v("div"),V0=M(),i0=v("div"),C0=M(),_0=v("div"),D2=M(),D0=v("div"),I2=M(),I0=v("div"),o2=M(),o0=v("div"),y2=M(),y0=v("div"),r2=M(),r0=v("div"),L2=M(),L0=v("div"),T2=M(),T0=v("div"),k2=M(),k0=v("div"),S2=M(),S0=v("div"),A2=M(),A0=v("div"),F2=M(),F0=v("div"),b2=M(),b0=v("div"),H2=M(),H0=v("div"),x2=M(),x0=v("div"),$2=M(),$0=v("div"),a2=M(),a0=v("div"),B2=M(),B0=v("div"),K2=M(),K0=v("div"),N2=M(),N0=v("div"),P2=M(),P0=v("div"),W2=M(),W0=v("div"),R2=M(),R0=v("div"),q2=M(),q0=v("div"),G2=M(),G0=v("div"),J2=M(),J0=v("div"),U2=M(),U0=v("div"),X2=M(),X0=v("div"),Y2=M(),Y0=v("div"),O2=M(),O0=v("div"),Q2=M(),Q0=v("div"),Z2=M(),Z0=v("div"),h2=M(),h0=v("div"),d2=M(),d0=v("div"),g2=M(),g0=v("div"),c3=M(),c1=v("div"),l3=M(),l1=v("div"),s3=M(),s1=v("div"),e3=M(),e1=v("div"),t3=M(),t1=v("div"),n3=M(),n1=v("div"),v3=M(),v1=v("div"),f3=M(),f1=v("div"),M3=M(),M1=v("div"),z3=M(),z1=v("div"),i3=M(),i1=v("div"),C3=M(),C1=v("div"),u3=M(),u1=v("div"),j3=M(),j1=v("div"),E3=M(),E1=v("div"),w3=M(),w1=v("div"),m3=M(),m1=v("div"),p3=M(),p1=v("div"),V3=M(),V1=v("div"),_3=M(),_1=v("div"),D3=M(),D1=v("div"),I3=M(),I1=v("div"),o3=M(),o1=v("div"),y3=M(),y1=v("div"),r3=M(),r1=v("div"),L3=M(),L1=v("div"),T3=M(),T1=v("div"),k3=M(),k1=v("div"),S3=M(),S1=v("div"),A3=M(),A1=v("div"),F3=M(),F1=v("div"),b3=M(),b1=v("div"),H3=M(),H1=v("div"),x3=M(),x1=v("div"),$3=M(),$1=v("div"),a3=M(),a1=v("div"),B3=M(),B1=v("div"),K3=M(),K1=v("div"),N3=M(),N1=v("div"),P3=M(),P1=v("div"),W3=M(),W1=v("div"),R3=M(),R1=v("div"),q3=M(),q1=v("div"),G3=M(),G1=v("div"),J3=M(),J1=v("div"),U3=M(),U1=v("div"),X3=M(),X1=v("div"),Y3=M(),Y1=v("div"),O3=M(),O1=v("div"),Q3=M(),Q1=v("div"),Z3=M(),Z1=v("div"),h3=M(),h1=v("div"),d3=M(),d1=v("div"),g3=M(),g1=v("div"),c4=M(),c2=v("div"),l4=M(),l2=v("div"),s4=M(),s2=v("div"),e4=M(),e2=v("div"),t4=M(),t2=v("div"),n4=M(),n2=v("div"),v4=M(),v2=v("div"),f4=M(),f2=v("div"),M4=M(),M2=v("div"),z4=M(),z2=v("div"),i4=M(),i2=v("div"),C4=M(),C2=v("div"),u4=M(),u2=v("div"),j4=M(),j2=v("div"),E4=M(),E2=v("div"),w4=M(),w2=v("div"),m4=M(),m2=v("div"),this.h()},l(c){C=f(c,"DIV",{class:!0}),n(C).forEach(l),i=z(c),E=f(c,"DIV",{class:!0}),n(E).forEach(l),p=z(c),u=f(c,"DIV",{class:!0}),n(u).forEach(l),m=z(c),D=f(c,"DIV",{class:!0}),n(D).forEach(l),I=z(c),T=f(c,"DIV",{class:!0}),n(T).forEach(l),a=z(c),S=f(c,"DIV",{class:!0}),n(S).forEach(l),G=z(c),F=f(c,"DIV",{class:!0}),n(F).forEach(l),B=z(c),b=f(c,"DIV",{class:!0}),n(b).forEach(l),K=z(c),H=f(c,"DIV",{class:!0}),n(H).forEach(l),N=z(c),A=f(c,"DIV",{class:!0}),n(A).forEach(l),R=z(c),$=f(c,"DIV",{class:!0}),n($).forEach(l),X=z(c),P=f(c,"DIV",{class:!0}),n(P).forEach(l),q=z(c),J=f(c,"DIV",{class:!0}),n(J).forEach(l),U=z(c),W=f(c,"DIV",{class:!0}),n(W).forEach(l),L=z(c),V=f(c,"DIV",{class:!0}),n(V).forEach(l),w=z(c),o=f(c,"DIV",{class:!0}),n(o).forEach(l),O=z(c),Q=f(c,"DIV",{class:!0}),n(Q).forEach(l),l0=z(c),h=f(c,"DIV",{class:!0}),n(h).forEach(l),Z=z(c),d=f(c,"DIV",{class:!0}),n(d).forEach(l),g=z(c),Y=f(c,"DIV",{class:!0}),n(Y).forEach(l),k=z(c),s0=f(c,"DIV",{class:!0}),n(s0).forEach(l),x=z(c),e0=f(c,"DIV",{class:!0}),n(e0).forEach(l),u0=z(c),t0=f(c,"DIV",{class:!0}),n(t0).forEach(l),j0=z(c),n0=f(c,"DIV",{class:!0}),n(n0).forEach(l),E0=z(c),v0=f(c,"DIV",{class:!0}),n(v0).forEach(l),w0=z(c),f0=f(c,"DIV",{class:!0}),n(f0).forEach(l),m0=z(c),M0=f(c,"DIV",{class:!0}),n(M0).forEach(l),p0=z(c),z0=f(c,"DIV",{class:!0}),n(z0).forEach(l),V0=z(c),i0=f(c,"DIV",{class:!0}),n(i0).forEach(l),C0=z(c),_0=f(c,"DIV",{class:!0}),n(_0).forEach(l),D2=z(c),D0=f(c,"DIV",{class:!0}),n(D0).forEach(l),I2=z(c),I0=f(c,"DIV",{class:!0}),n(I0).forEach(l),o2=z(c),o0=f(c,"DIV",{class:!0}),n(o0).forEach(l),y2=z(c),y0=f(c,"DIV",{class:!0}),n(y0).forEach(l),r2=z(c),r0=f(c,"DIV",{class:!0}),n(r0).forEach(l),L2=z(c),L0=f(c,"DIV",{class:!0}),n(L0).forEach(l),T2=z(c),T0=f(c,"DIV",{class:!0}),n(T0).forEach(l),k2=z(c),k0=f(c,"DIV",{class:!0}),n(k0).forEach(l),S2=z(c),S0=f(c,"DIV",{class:!0}),n(S0).forEach(l),A2=z(c),A0=f(c,"DIV",{class:!0}),n(A0).forEach(l),F2=z(c),F0=f(c,"DIV",{class:!0}),n(F0).forEach(l),b2=z(c),b0=f(c,"DIV",{class:!0}),n(b0).forEach(l),H2=z(c),H0=f(c,"DIV",{class:!0}),n(H0).forEach(l),x2=z(c),x0=f(c,"DIV",{class:!0}),n(x0).forEach(l),$2=z(c),$0=f(c,"DIV",{class:!0}),n($0).forEach(l),a2=z(c),a0=f(c,"DIV",{class:!0}),n(a0).forEach(l),B2=z(c),B0=f(c,"DIV",{class:!0}),n(B0).forEach(l),K2=z(c),K0=f(c,"DIV",{class:!0}),n(K0).forEach(l),N2=z(c),N0=f(c,"DIV",{class:!0}),n(N0).forEach(l),P2=z(c),P0=f(c,"DIV",{class:!0}),n(P0).forEach(l),W2=z(c),W0=f(c,"DIV",{class:!0}),n(W0).forEach(l),R2=z(c),R0=f(c,"DIV",{class:!0}),n(R0).forEach(l),q2=z(c),q0=f(c,"DIV",{class:!0}),n(q0).forEach(l),G2=z(c),G0=f(c,"DIV",{class:!0}),n(G0).forEach(l),J2=z(c),J0=f(c,"DIV",{class:!0}),n(J0).forEach(l),U2=z(c),U0=f(c,"DIV",{class:!0}),n(U0).forEach(l),X2=z(c),X0=f(c,"DIV",{class:!0}),n(X0).forEach(l),Y2=z(c),Y0=f(c,"DIV",{class:!0}),n(Y0).forEach(l),O2=z(c),O0=f(c,"DIV",{class:!0}),n(O0).forEach(l),Q2=z(c),Q0=f(c,"DIV",{class:!0}),n(Q0).forEach(l),Z2=z(c),Z0=f(c,"DIV",{class:!0}),n(Z0).forEach(l),h2=z(c),h0=f(c,"DIV",{class:!0}),n(h0).forEach(l),d2=z(c),d0=f(c,"DIV",{class:!0}),n(d0).forEach(l),g2=z(c),g0=f(c,"DIV",{class:!0}),n(g0).forEach(l),c3=z(c),c1=f(c,"DIV",{class:!0}),n(c1).forEach(l),l3=z(c),l1=f(c,"DIV",{class:!0}),n(l1).forEach(l),s3=z(c),s1=f(c,"DIV",{class:!0}),n(s1).forEach(l),e3=z(c),e1=f(c,"DIV",{class:!0}),n(e1).forEach(l),t3=z(c),t1=f(c,"DIV",{class:!0}),n(t1).forEach(l),n3=z(c),n1=f(c,"DIV",{class:!0}),n(n1).forEach(l),v3=z(c),v1=f(c,"DIV",{class:!0}),n(v1).forEach(l),f3=z(c),f1=f(c,"DIV",{class:!0}),n(f1).forEach(l),M3=z(c),M1=f(c,"DIV",{class:!0}),n(M1).forEach(l),z3=z(c),z1=f(c,"DIV",{class:!0}),n(z1).forEach(l),i3=z(c),i1=f(c,"DIV",{class:!0}),n(i1).forEach(l),C3=z(c),C1=f(c,"DIV",{class:!0}),n(C1).forEach(l),u3=z(c),u1=f(c,"DIV",{class:!0}),n(u1).forEach(l),j3=z(c),j1=f(c,"DIV",{class:!0}),n(j1).forEach(l),E3=z(c),E1=f(c,"DIV",{class:!0}),n(E1).forEach(l),w3=z(c),w1=f(c,"DIV",{class:!0}),n(w1).forEach(l),m3=z(c),m1=f(c,"DIV",{class:!0}),n(m1).forEach(l),p3=z(c),p1=f(c,"DIV",{class:!0}),n(p1).forEach(l),V3=z(c),V1=f(c,"DIV",{class:!0}),n(V1).forEach(l),_3=z(c),_1=f(c,"DIV",{class:!0}),n(_1).forEach(l),D3=z(c),D1=f(c,"DIV",{class:!0}),n(D1).forEach(l),I3=z(c),I1=f(c,"DIV",{class:!0}),n(I1).forEach(l),o3=z(c),o1=f(c,"DIV",{class:!0}),n(o1).forEach(l),y3=z(c),y1=f(c,"DIV",{class:!0}),n(y1).forEach(l),r3=z(c),r1=f(c,"DIV",{class:!0}),n(r1).forEach(l),L3=z(c),L1=f(c,"DIV",{class:!0}),n(L1).forEach(l),T3=z(c),T1=f(c,"DIV",{class:!0}),n(T1).forEach(l),k3=z(c),k1=f(c,"DIV",{class:!0}),n(k1).forEach(l),S3=z(c),S1=f(c,"DIV",{class:!0}),n(S1).forEach(l),A3=z(c),A1=f(c,"DIV",{class:!0}),n(A1).forEach(l),F3=z(c),F1=f(c,"DIV",{class:!0}),n(F1).forEach(l),b3=z(c),b1=f(c,"DIV",{class:!0}),n(b1).forEach(l),H3=z(c),H1=f(c,"DIV",{class:!0}),n(H1).forEach(l),x3=z(c),x1=f(c,"DIV",{class:!0}),n(x1).forEach(l),$3=z(c),$1=f(c,"DIV",{class:!0}),n($1).forEach(l),a3=z(c),a1=f(c,"DIV",{class:!0}),n(a1).forEach(l),B3=z(c),B1=f(c,"DIV",{class:!0}),n(B1).forEach(l),K3=z(c),K1=f(c,"DIV",{class:!0}),n(K1).forEach(l),N3=z(c),N1=f(c,"DIV",{class:!0}),n(N1).forEach(l),P3=z(c),P1=f(c,"DIV",{class:!0}),n(P1).forEach(l),W3=z(c),W1=f(c,"DIV",{class:!0}),n(W1).forEach(l),R3=z(c),R1=f(c,"DIV",{class:!0}),n(R1).forEach(l),q3=z(c),q1=f(c,"DIV",{class:!0}),n(q1).forEach(l),G3=z(c),G1=f(c,"DIV",{class:!0}),n(G1).forEach(l),J3=z(c),J1=f(c,"DIV",{class:!0}),n(J1).forEach(l),U3=z(c),U1=f(c,"DIV",{class:!0}),n(U1).forEach(l),X3=z(c),X1=f(c,"DIV",{class:!0}),n(X1).forEach(l),Y3=z(c),Y1=f(c,"DIV",{class:!0}),n(Y1).forEach(l),O3=z(c),O1=f(c,"DIV",{class:!0}),n(O1).forEach(l),Q3=z(c),Q1=f(c,"DIV",{class:!0}),n(Q1).forEach(l),Z3=z(c),Z1=f(c,"DIV",{class:!0}),n(Z1).forEach(l),h3=z(c),h1=f(c,"DIV",{class:!0}),n(h1).forEach(l),d3=z(c),d1=f(c,"DIV",{class:!0}),n(d1).forEach(l),g3=z(c),g1=f(c,"DIV",{class:!0}),n(g1).forEach(l),c4=z(c),c2=f(c,"DIV",{class:!0}),n(c2).forEach(l),l4=z(c),l2=f(c,"DIV",{class:!0}),n(l2).forEach(l),s4=z(c),s2=f(c,"DIV",{class:!0}),n(s2).forEach(l),e4=z(c),e2=f(c,"DIV",{class:!0}),n(e2).forEach(l),t4=z(c),t2=f(c,"DIV",{class:!0}),n(t2).forEach(l),n4=z(c),n2=f(c,"DIV",{class:!0}),n(n2).forEach(l),v4=z(c),v2=f(c,"DIV",{class:!0}),n(v2).forEach(l),f4=z(c),f2=f(c,"DIV",{class:!0}),n(f2).forEach(l),M4=z(c),M2=f(c,"DIV",{class:!0}),n(M2).forEach(l),z4=z(c),z2=f(c,"DIV",{class:!0}),n(z2).forEach(l),i4=z(c),i2=f(c,"DIV",{class:!0}),n(i2).forEach(l),C4=z(c),C2=f(c,"DIV",{class:!0}),n(C2).forEach(l),u4=z(c),u2=f(c,"DIV",{class:!0}),n(u2).forEach(l),j4=z(c),j2=f(c,"DIV",{class:!0}),n(j2).forEach(l),E4=z(c),E2=f(c,"DIV",{class:!0}),n(E2).forEach(l),w4=z(c),w2=f(c,"DIV",{class:!0}),n(w2).forEach(l),m4=z(c),m2=f(c,"DIV",{class:!0}),n(m2).forEach(l),this.h()},h(){t(C,"class","snow svelte-15gjj16"),t(E,"class","snow svelte-15gjj16"),t(u,"class","snow svelte-15gjj16"),t(D,"class","snow svelte-15gjj16"),t(T,"class","snow svelte-15gjj16"),t(S,"class","snow svelte-15gjj16"),t(F,"class","snow svelte-15gjj16"),t(b,"class","snow svelte-15gjj16"),t(H,"class","snow svelte-15gjj16"),t(A,"class","snow svelte-15gjj16"),t($,"class","snow svelte-15gjj16"),t(P,"class","snow svelte-15gjj16"),t(J,"class","snow svelte-15gjj16"),t(W,"class","snow svelte-15gjj16"),t(V,"class","snow svelte-15gjj16"),t(o,"class","snow svelte-15gjj16"),t(Q,"class","snow svelte-15gjj16"),t(h,"class","snow svelte-15gjj16"),t(d,"class","snow svelte-15gjj16"),t(Y,"class","snow svelte-15gjj16"),t(s0,"class","snow svelte-15gjj16"),t(e0,"class","snow svelte-15gjj16"),t(t0,"class","snow svelte-15gjj16"),t(n0,"class","snow svelte-15gjj16"),t(v0,"class","snow svelte-15gjj16"),t(f0,"class","snow svelte-15gjj16"),t(M0,"class","snow svelte-15gjj16"),t(z0,"class","snow svelte-15gjj16"),t(i0,"class","snow svelte-15gjj16"),t(_0,"class","snow svelte-15gjj16"),t(D0,"class","snow svelte-15gjj16"),t(I0,"class","snow svelte-15gjj16"),t(o0,"class","snow svelte-15gjj16"),t(y0,"class","snow svelte-15gjj16"),t(r0,"class","snow svelte-15gjj16"),t(L0,"class","snow svelte-15gjj16"),t(T0,"class","snow svelte-15gjj16"),t(k0,"class","snow svelte-15gjj16"),t(S0,"class","snow svelte-15gjj16"),t(A0,"class","snow svelte-15gjj16"),t(F0,"class","snow svelte-15gjj16"),t(b0,"class","snow svelte-15gjj16"),t(H0,"class","snow svelte-15gjj16"),t(x0,"class","snow svelte-15gjj16"),t($0,"class","snow svelte-15gjj16"),t(a0,"class","snow svelte-15gjj16"),t(B0,"class","snow svelte-15gjj16"),t(K0,"class","snow svelte-15gjj16"),t(N0,"class","snow svelte-15gjj16"),t(P0,"class","snow svelte-15gjj16"),t(W0,"class","snow svelte-15gjj16"),t(R0,"class","snow svelte-15gjj16"),t(q0,"class","snow svelte-15gjj16"),t(G0,"class","snow svelte-15gjj16"),t(J0,"class","snow svelte-15gjj16"),t(U0,"class","snow svelte-15gjj16"),t(X0,"class","snow svelte-15gjj16"),t(Y0,"class","snow svelte-15gjj16"),t(O0,"class","snow svelte-15gjj16"),t(Q0,"class","snow svelte-15gjj16"),t(Z0,"class","snow svelte-15gjj16"),t(h0,"class","snow svelte-15gjj16"),t(d0,"class","snow svelte-15gjj16"),t(g0,"class","snow svelte-15gjj16"),t(c1,"class","snow svelte-15gjj16"),t(l1,"class","snow svelte-15gjj16"),t(s1,"class","snow svelte-15gjj16"),t(e1,"class","snow svelte-15gjj16"),t(t1,"class","snow svelte-15gjj16"),t(n1,"class","snow svelte-15gjj16"),t(v1,"class","snow svelte-15gjj16"),t(f1,"class","snow svelte-15gjj16"),t(M1,"class","snow svelte-15gjj16"),t(z1,"class","snow svelte-15gjj16"),t(i1,"class","snow svelte-15gjj16"),t(C1,"class","snow svelte-15gjj16"),t(u1,"class","snow svelte-15gjj16"),t(j1,"class","snow svelte-15gjj16"),t(E1,"class","snow svelte-15gjj16"),t(w1,"class","snow svelte-15gjj16"),t(m1,"class","snow svelte-15gjj16"),t(p1,"class","snow svelte-15gjj16"),t(V1,"class","snow svelte-15gjj16"),t(_1,"class","snow svelte-15gjj16"),t(D1,"class","snow svelte-15gjj16"),t(I1,"class","snow svelte-15gjj16"),t(o1,"class","snow svelte-15gjj16"),t(y1,"class","snow svelte-15gjj16"),t(r1,"class","snow svelte-15gjj16"),t(L1,"class","snow svelte-15gjj16"),t(T1,"class","snow svelte-15gjj16"),t(k1,"class","snow svelte-15gjj16"),t(S1,"class","snow svelte-15gjj16"),t(A1,"class","snow svelte-15gjj16"),t(F1,"class","snow svelte-15gjj16"),t(b1,"class","snow svelte-15gjj16"),t(H1,"class","snow svelte-15gjj16"),t(x1,"class","snow svelte-15gjj16"),t($1,"class","snow svelte-15gjj16"),t(a1,"class","snow svelte-15gjj16"),t(B1,"class","snow svelte-15gjj16"),t(K1,"class","snow svelte-15gjj16"),t(N1,"class","snow svelte-15gjj16"),t(P1,"class","snow svelte-15gjj16"),t(W1,"class","snow svelte-15gjj16"),t(R1,"class","snow svelte-15gjj16"),t(q1,"class","snow svelte-15gjj16"),t(G1,"class","snow svelte-15gjj16"),t(J1,"class","snow svelte-15gjj16"),t(U1,"class","snow svelte-15gjj16"),t(X1,"class","snow svelte-15gjj16"),t(Y1,"class","snow svelte-15gjj16"),t(O1,"class","snow svelte-15gjj16"),t(Q1,"class","snow svelte-15gjj16"),t(Z1,"class","snow svelte-15gjj16"),t(h1,"class","snow svelte-15gjj16"),t(d1,"class","snow svelte-15gjj16"),t(g1,"class","snow svelte-15gjj16"),t(c2,"class","snow svelte-15gjj16"),t(l2,"class","snow svelte-15gjj16"),t(s2,"class","snow svelte-15gjj16"),t(e2,"class","snow svelte-15gjj16"),t(t2,"class","snow svelte-15gjj16"),t(n2,"class","snow svelte-15gjj16"),t(v2,"class","snow svelte-15gjj16"),t(f2,"class","snow svelte-15gjj16"),t(M2,"class","snow svelte-15gjj16"),t(z2,"class","snow svelte-15gjj16"),t(i2,"class","snow svelte-15gjj16"),t(C2,"class","snow svelte-15gjj16"),t(u2,"class","snow svelte-15gjj16"),t(j2,"class","snow svelte-15gjj16"),t(E2,"class","snow svelte-15gjj16"),t(w2,"class","snow svelte-15gjj16"),t(m2,"class","snow svelte-15gjj16")},m(c,e){s(c,C,e),s(c,i,e),s(c,E,e),s(c,p,e),s(c,u,e),s(c,m,e),s(c,D,e),s(c,I,e),s(c,T,e),s(c,a,e),s(c,S,e),s(c,G,e),s(c,F,e),s(c,B,e),s(c,b,e),s(c,K,e),s(c,H,e),s(c,N,e),s(c,A,e),s(c,R,e),s(c,$,e),s(c,X,e),s(c,P,e),s(c,q,e),s(c,J,e),s(c,U,e),s(c,W,e),s(c,L,e),s(c,V,e),s(c,w,e),s(c,o,e),s(c,O,e),s(c,Q,e),s(c,l0,e),s(c,h,e),s(c,Z,e),s(c,d,e),s(c,g,e),s(c,Y,e),s(c,k,e),s(c,s0,e),s(c,x,e),s(c,e0,e),s(c,u0,e),s(c,t0,e),s(c,j0,e),s(c,n0,e),s(c,E0,e),s(c,v0,e),s(c,w0,e),s(c,f0,e),s(c,m0,e),s(c,M0,e),s(c,p0,e),s(c,z0,e),s(c,V0,e),s(c,i0,e),s(c,C0,e),s(c,_0,e),s(c,D2,e),s(c,D0,e),s(c,I2,e),s(c,I0,e),s(c,o2,e),s(c,o0,e),s(c,y2,e),s(c,y0,e),s(c,r2,e),s(c,r0,e),s(c,L2,e),s(c,L0,e),s(c,T2,e),s(c,T0,e),s(c,k2,e),s(c,k0,e),s(c,S2,e),s(c,S0,e),s(c,A2,e),s(c,A0,e),s(c,F2,e),s(c,F0,e),s(c,b2,e),s(c,b0,e),s(c,H2,e),s(c,H0,e),s(c,x2,e),s(c,x0,e),s(c,$2,e),s(c,$0,e),s(c,a2,e),s(c,a0,e),s(c,B2,e),s(c,B0,e),s(c,K2,e),s(c,K0,e),s(c,N2,e),s(c,N0,e),s(c,P2,e),s(c,P0,e),s(c,W2,e),s(c,W0,e),s(c,R2,e),s(c,R0,e),s(c,q2,e),s(c,q0,e),s(c,G2,e),s(c,G0,e),s(c,J2,e),s(c,J0,e),s(c,U2,e),s(c,U0,e),s(c,X2,e),s(c,X0,e),s(c,Y2,e),s(c,Y0,e),s(c,O2,e),s(c,O0,e),s(c,Q2,e),s(c,Q0,e),s(c,Z2,e),s(c,Z0,e),s(c,h2,e),s(c,h0,e),s(c,d2,e),s(c,d0,e),s(c,g2,e),s(c,g0,e),s(c,c3,e),s(c,c1,e),s(c,l3,e),s(c,l1,e),s(c,s3,e),s(c,s1,e),s(c,e3,e),s(c,e1,e),s(c,t3,e),s(c,t1,e),s(c,n3,e),s(c,n1,e),s(c,v3,e),s(c,v1,e),s(c,f3,e),s(c,f1,e),s(c,M3,e),s(c,M1,e),s(c,z3,e),s(c,z1,e),s(c,i3,e),s(c,i1,e),s(c,C3,e),s(c,C1,e),s(c,u3,e),s(c,u1,e),s(c,j3,e),s(c,j1,e),s(c,E3,e),s(c,E1,e),s(c,w3,e),s(c,w1,e),s(c,m3,e),s(c,m1,e),s(c,p3,e),s(c,p1,e),s(c,V3,e),s(c,V1,e),s(c,_3,e),s(c,_1,e),s(c,D3,e),s(c,D1,e),s(c,I3,e),s(c,I1,e),s(c,o3,e),s(c,o1,e),s(c,y3,e),s(c,y1,e),s(c,r3,e),s(c,r1,e),s(c,L3,e),s(c,L1,e),s(c,T3,e),s(c,T1,e),s(c,k3,e),s(c,k1,e),s(c,S3,e),s(c,S1,e),s(c,A3,e),s(c,A1,e),s(c,F3,e),s(c,F1,e),s(c,b3,e),s(c,b1,e),s(c,H3,e),s(c,H1,e),s(c,x3,e),s(c,x1,e),s(c,$3,e),s(c,$1,e),s(c,a3,e),s(c,a1,e),s(c,B3,e),s(c,B1,e),s(c,K3,e),s(c,K1,e),s(c,N3,e),s(c,N1,e),s(c,P3,e),s(c,P1,e),s(c,W3,e),s(c,W1,e),s(c,R3,e),s(c,R1,e),s(c,q3,e),s(c,q1,e),s(c,G3,e),s(c,G1,e),s(c,J3,e),s(c,J1,e),s(c,U3,e),s(c,U1,e),s(c,X3,e),s(c,X1,e),s(c,Y3,e),s(c,Y1,e),s(c,O3,e),s(c,O1,e),s(c,Q3,e),s(c,Q1,e),s(c,Z3,e),s(c,Z1,e),s(c,h3,e),s(c,h1,e),s(c,d3,e),s(c,d1,e),s(c,g3,e),s(c,g1,e),s(c,c4,e),s(c,c2,e),s(c,l4,e),s(c,l2,e),s(c,s4,e),s(c,s2,e),s(c,e4,e),s(c,e2,e),s(c,t4,e),s(c,t2,e),s(c,n4,e),s(c,n2,e),s(c,v4,e),s(c,v2,e),s(c,f4,e),s(c,f2,e),s(c,M4,e),s(c,M2,e),s(c,z4,e),s(c,z2,e),s(c,i4,e),s(c,i2,e),s(c,C4,e),s(c,C2,e),s(c,u4,e),s(c,u2,e),s(c,j4,e),s(c,j2,e),s(c,E4,e),s(c,E2,e),s(c,w4,e),s(c,w2,e),s(c,m4,e),s(c,m2,e)},p:c0,i:c0,o:c0,d(c){c&&l(C),c&&l(i),c&&l(E),c&&l(p),c&&l(u),c&&l(m),c&&l(D),c&&l(I),c&&l(T),c&&l(a),c&&l(S),c&&l(G),c&&l(F),c&&l(B),c&&l(b),c&&l(K),c&&l(H),c&&l(N),c&&l(A),c&&l(R),c&&l($),c&&l(X),c&&l(P),c&&l(q),c&&l(J),c&&l(U),c&&l(W),c&&l(L),c&&l(V),c&&l(w),c&&l(o),c&&l(O),c&&l(Q),c&&l(l0),c&&l(h),c&&l(Z),c&&l(d),c&&l(g),c&&l(Y),c&&l(k),c&&l(s0),c&&l(x),c&&l(e0),c&&l(u0),c&&l(t0),c&&l(j0),c&&l(n0),c&&l(E0),c&&l(v0),c&&l(w0),c&&l(f0),c&&l(m0),c&&l(M0),c&&l(p0),c&&l(z0),c&&l(V0),c&&l(i0),c&&l(C0),c&&l(_0),c&&l(D2),c&&l(D0),c&&l(I2),c&&l(I0),c&&l(o2),c&&l(o0),c&&l(y2),c&&l(y0),c&&l(r2),c&&l(r0),c&&l(L2),c&&l(L0),c&&l(T2),c&&l(T0),c&&l(k2),c&&l(k0),c&&l(S2),c&&l(S0),c&&l(A2),c&&l(A0),c&&l(F2),c&&l(F0),c&&l(b2),c&&l(b0),c&&l(H2),c&&l(H0),c&&l(x2),c&&l(x0),c&&l($2),c&&l($0),c&&l(a2),c&&l(a0),c&&l(B2),c&&l(B0),c&&l(K2),c&&l(K0),c&&l(N2),c&&l(N0),c&&l(P2),c&&l(P0),c&&l(W2),c&&l(W0),c&&l(R2),c&&l(R0),c&&l(q2),c&&l(q0),c&&l(G2),c&&l(G0),c&&l(J2),c&&l(J0),c&&l(U2),c&&l(U0),c&&l(X2),c&&l(X0),c&&l(Y2),c&&l(Y0),c&&l(O2),c&&l(O0),c&&l(Q2),c&&l(Q0),c&&l(Z2),c&&l(Z0),c&&l(h2),c&&l(h0),c&&l(d2),c&&l(d0),c&&l(g2),c&&l(g0),c&&l(c3),c&&l(c1),c&&l(l3),c&&l(l1),c&&l(s3),c&&l(s1),c&&l(e3),c&&l(e1),c&&l(t3),c&&l(t1),c&&l(n3),c&&l(n1),c&&l(v3),c&&l(v1),c&&l(f3),c&&l(f1),c&&l(M3),c&&l(M1),c&&l(z3),c&&l(z1),c&&l(i3),c&&l(i1),c&&l(C3),c&&l(C1),c&&l(u3),c&&l(u1),c&&l(j3),c&&l(j1),c&&l(E3),c&&l(E1),c&&l(w3),c&&l(w1),c&&l(m3),c&&l(m1),c&&l(p3),c&&l(p1),c&&l(V3),c&&l(V1),c&&l(_3),c&&l(_1),c&&l(D3),c&&l(D1),c&&l(I3),c&&l(I1),c&&l(o3),c&&l(o1),c&&l(y3),c&&l(y1),c&&l(r3),c&&l(r1),c&&l(L3),c&&l(L1),c&&l(T3),c&&l(T1),c&&l(k3),c&&l(k1),c&&l(S3),c&&l(S1),c&&l(A3),c&&l(A1),c&&l(F3),c&&l(F1),c&&l(b3),c&&l(b1),c&&l(H3),c&&l(H1),c&&l(x3),c&&l(x1),c&&l($3),c&&l($1),c&&l(a3),c&&l(a1),c&&l(B3),c&&l(B1),c&&l(K3),c&&l(K1),c&&l(N3),c&&l(N1),c&&l(P3),c&&l(P1),c&&l(W3),c&&l(W1),c&&l(R3),c&&l(R1),c&&l(q3),c&&l(q1),c&&l(G3),c&&l(G1),c&&l(J3),c&&l(J1),c&&l(U3),c&&l(U1),c&&l(X3),c&&l(X1),c&&l(Y3),c&&l(Y1),c&&l(O3),c&&l(O1),c&&l(Q3),c&&l(Q1),c&&l(Z3),c&&l(Z1),c&&l(h3),c&&l(h1),c&&l(d3),c&&l(d1),c&&l(g3),c&&l(g1),c&&l(c4),c&&l(c2),c&&l(l4),c&&l(l2),c&&l(s4),c&&l(s2),c&&l(e4),c&&l(e2),c&&l(t4),c&&l(t2),c&&l(n4),c&&l(n2),c&&l(v4),c&&l(v2),c&&l(f4),c&&l(f2),c&&l(M4),c&&l(M2),c&&l(z4),c&&l(z2),c&&l(i4),c&&l(i2),c&&l(C4),c&&l(C2),c&&l(u4),c&&l(u2),c&&l(j4),c&&l(j2),c&&l(E4),c&&l(E2),c&&l(w4),c&&l(w2),c&&l(m4),c&&l(m2)}}}class K4 extends p2{constructor(C){super(),V2(this,C,null,B4,_2,{})}}function N4(_){let C,i,E,p,u,m,D,I,T,a,S,G,F,B,b,K,H,N,A,R,$,X,P,q,J,U,W,L,V,w,o,O,Q,l0,h,Z,d;return{c(){C=v("div"),i=y("svg"),E=y("style"),p=r4(".st0{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}"),u=y("g"),m=y("path"),D=y("path"),I=y("path"),T=y("path"),a=y("path"),S=y("path"),G=y("path"),F=y("path"),B=y("path"),b=y("path"),K=y("path"),H=y("path"),N=y("path"),A=y("path"),R=y("g"),$=y("g"),X=y("g"),P=y("g"),q=y("g"),J=y("g"),U=y("g"),W=y("g"),L=y("g"),V=y("g"),w=y("g"),o=y("g"),O=y("g"),Q=y("g"),l0=y("g"),h=M(),Z=v("p"),d=r4("Turn your volume up!"),this.h()},l(g){C=f(g,"DIV",{class:!0});var Y=n(C);i=r(Y,"svg",{version:!0,id:!0,xmlns:!0,"xmlns:xlink":!0,x:!0,y:!0,viewBox:!0,style:!0,"xml:space":!0});var k=n(i);E=r(k,"style",{type:!0});var s0=n(E);p=L4(s0,".st0{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}"),s0.forEach(l),u=r(k,"g",{});var x=n(u);m=r(x,"path",{class:!0,d:!0}),n(m).forEach(l),D=r(x,"path",{class:!0,d:!0}),n(D).forEach(l),I=r(x,"path",{class:!0,d:!0}),n(I).forEach(l),T=r(x,"path",{class:!0,d:!0}),n(T).forEach(l),a=r(x,"path",{class:!0,d:!0}),n(a).forEach(l),S=r(x,"path",{class:!0,d:!0}),n(S).forEach(l),G=r(x,"path",{class:!0,d:!0}),n(G).forEach(l),F=r(x,"path",{class:!0,d:!0}),n(F).forEach(l),B=r(x,"path",{class:!0,d:!0}),n(B).forEach(l),b=r(x,"path",{class:!0,d:!0}),n(b).forEach(l),K=r(x,"path",{class:!0,d:!0}),n(K).forEach(l),H=r(x,"path",{class:!0,d:!0}),n(H).forEach(l),N=r(x,"path",{class:!0,d:!0}),n(N).forEach(l),A=r(x,"path",{class:!0,d:!0}),n(A).forEach(l),x.forEach(l),R=r(k,"g",{});var e0=n(R);e0.forEach(l),$=r(k,"g",{});var u0=n($);u0.forEach(l),X=r(k,"g",{});var t0=n(X);t0.forEach(l),P=r(k,"g",{});var j0=n(P);j0.forEach(l),q=r(k,"g",{});var n0=n(q);n0.forEach(l),J=r(k,"g",{});var E0=n(J);E0.forEach(l),U=r(k,"g",{});var v0=n(U);v0.forEach(l),W=r(k,"g",{});var w0=n(W);w0.forEach(l),L=r(k,"g",{});var f0=n(L);f0.forEach(l),V=r(k,"g",{});var m0=n(V);m0.forEach(l),w=r(k,"g",{});var M0=n(w);M0.forEach(l),o=r(k,"g",{});var p0=n(o);p0.forEach(l),O=r(k,"g",{});var z0=n(O);z0.forEach(l),Q=r(k,"g",{});var V0=n(Q);V0.forEach(l),l0=r(k,"g",{});var i0=n(l0);i0.forEach(l),k.forEach(l),h=z(Y),Z=f(Y,"P",{class:!0});var C0=n(Z);d=L4(C0,"Turn your volume up!"),C0.forEach(l),Y.forEach(l),this.h()},h(){t(E,"type","text/css"),t(m,"class","st0 svelte-7y78nn"),t(m,"d",`M40.8,59.1c0-1.3-0.3-2.4-1-3.1c-0.4-0.4-1.2-0.9-2.4-1.5c-0.7-0.3-1.3-0.6-1.8-1c-0.5-0.3-0.9-0.6-1.2-1
                 c0-0.1,0.1-0.3,0.4-0.6c0.3-0.3,0.5-0.5,0.6-0.6c0.5-1.1,0.9-3.5,1.2-7.3c0.2-3,0.4-5.5,0.4-7.6c0-0.5,0-0.8-0.1-1.1
                 c-0.1-0.2-0.1-0.4-0.2-0.5c-0.1-0.1-0.2-0.1-0.3-0.1c-0.1,0-0.2,0-0.3,0c-0.5,0-1.6,0.4-3.2,1.2l-0.3-0.3c0.3-2.4,0.6-4.2,0.8-5.6
                 c0.2-1.4,0.3-2.3,0.4-2.8l0.4-0.2c0.3,0,0.5,0.2,0.6,0.5c0.1,0.3,0.2,0.7,0.3,0.9l0.8,0.4c0.8,0,1.2-0.3,1.2-0.9c0-0.4,0-1-0.1-1.6
@@ -328,7 +145,7 @@
                  M62.5,53.8c0,0.1,0.1,0.2,0.4,0.2c0.5,0,1.6-0.8,3.2-2.5c0-0.3-0.1-0.4-0.2-0.4c-0.3,0-0.7,0.2-1.2,0.7c-0.4,0.3-0.8,0.6-1.1,0.9
                 c-0.3,0.3-0.6,0.4-0.6,0.5C62.7,53.4,62.5,53.6,62.5,53.8z M66.7,15.9c-0.4,0-0.7,0.2-1,0.5c-0.3,0.3-0.5,0.5-0.6,0.7
                 c-0.1,0.1-0.2,0.2-0.2,0.3c-0.2,0.1-0.5,0.2-0.7,0.3c-0.3,0.1-0.5,0.3-0.5,0.6h0.7C64.6,18.3,65.4,17.5,66.7,15.9z M64.2,54.6
-                c0,0.2,0.1,0.4,0.4,0.4c0.3,0,1.2-0.8,2.8-2.3c0-0.2,0.1-0.3,0.1-0.4s0,0,0,0.1c0-0.1,0-0.1-0.1-0.2C67,52.1,66,52.9,64.2,54.6z"></path><path class="st0 svelte-7y78nn" d="M84.6,58.3c-0.4-0.5-1.9-1.2-4.3-2c-2.4-0.8-4.2-1.1-5.3-1.1c-0.6,0.1-1.3,0.2-1.9,0.3L72.5,55
+                c0,0.2,0.1,0.4,0.4,0.4c0.3,0,1.2-0.8,2.8-2.3c0-0.2,0.1-0.3,0.1-0.4s0,0,0,0.1c0-0.1,0-0.1-0.1-0.2C67,52.1,66,52.9,64.2,54.6z`),t(D,"class","st0 svelte-7y78nn"),t(D,"d",`M84.6,58.3c-0.4-0.5-1.9-1.2-4.3-2c-2.4-0.8-4.2-1.1-5.3-1.1c-0.6,0.1-1.3,0.2-1.9,0.3L72.5,55
                 c0.5-0.8,0.9-1.5,1.3-1.9c0.1-0.2,0.2-1.1,0.4-2.8c0.1-0.8,0.2-1.5,0.2-2.1c0.1-0.6,0.1-1.1,0.1-1.5c0-0.4,0-0.6-0.1-0.6
                 c0-1.5,0-2.3,0.1-2.5c-0.1-0.2-0.2-0.7-0.2-1.6v-1.4c0-0.3,0.1-0.6,0.1-0.9c0-0.3,0-0.5,0-0.7c0-3.1-0.5-5-1.4-5.6
                 c-0.1,0,0-0.1,0.1-0.3c2-0.8,4.6-2.5,7.9-5.1c0.8-0.6,1.5-1.3,2.2-1.9c0.7-0.6,1.5-1.3,2.2-1.9c0.3-0.1,0.4-0.1,0.4,0.2l-0.1,1.1
@@ -375,7 +192,7 @@
                 c0,0.3,0.1,0.5,0.3,0.5c0.3,0,0.9-0.4,1.8-1.1c1-0.8,1.4-1.2,1.4-1.4c0-0.3-0.1-0.4-0.4-0.4C90,33.4,89,34.2,87.3,35.9z M91.2,34.8
                 c-1.8,1.6-2.8,2.5-3,2.7v0.4c0.4,0,0.6-0.1,0.8-0.2c1.8-1.4,2.6-2.3,2.6-2.6c0-0.2-0.1-0.3-0.3-0.3H91.2z M92.2,36.2
                 c-0.2,0-0.3,0-0.4,0.1c-0.8,0.8-1.5,1.4-2,1.7c-0.5,0.3-0.8,0.7-0.8,1.3h0.6c0.2-0.3,0.5-0.5,0.8-0.8c0.3-0.2,0.6-0.4,0.8-0.5
-                l1.3-1.3C92.6,36.4,92.5,36.2,92.2,36.2z"></path><path class="st0 svelte-7y78nn" d="M105.7,58.7c-0.1-0.8-0.2-1.3-0.3-1.4c-0.2-0.1-0.5-0.2-1.1-0.5c-0.6-0.3-1.4-0.6-2.4-1
+                l1.3-1.3C92.6,36.4,92.5,36.2,92.2,36.2z`),t(I,"class","st0 svelte-7y78nn"),t(I,"d",`M105.7,58.7c-0.1-0.8-0.2-1.3-0.3-1.4c-0.2-0.1-0.5-0.2-1.1-0.5c-0.6-0.3-1.4-0.6-2.4-1
                 c-2-0.8-3.2-1.2-3.4-1.2c-0.3,0-0.7,0.1-1.2,0.3c-0.5,0.2-0.9,0.3-1.2,0.3c-0.3,0-0.4-0.1-0.5-0.4c0.9-1.8,1.4-3.8,1.6-5.9
                 c0.1-1,0.1-2,0.2-3c0.1-1,0.1-2,0.2-3c0.1-1.2,0.1-2.9,0-5.1c-0.2-2.6-0.5-4-0.8-4.4c-0.8-0.3-1.4-0.5-1.8-0.7l-0.2-0.4
                 c0.1-0.3,0.3-0.6,0.7-0.8c2-1.2,4.1-2.9,6.2-4.9c0,0,0.1-0.1,0.3-0.3c0.1-0.2,0.3-0.4,0.5-0.7c0.2-0.4,0.6-0.7,1-0.8l0.4,0.5
@@ -417,7 +234,7 @@
                 c0.8-0.7,1.2-1.2,1.2-1.3c0-0.1-0.1-0.3-0.2-0.4c-0.3,0.3-0.6,0.4-0.8,0.4c-0.8,0.8-1.4,1.3-1.6,1.5
                 C111.6,31.8,111.5,32,111.5,32.2z M112.3,33.6c0,0.2,0.1,0.4,0.3,0.4c0.2,0,0.7-0.3,1.4-0.9c0.7-0.6,1.1-1.1,1.1-1.3
                 c0-0.1-0.1-0.2-0.2-0.2h-0.2c-0.2,0-0.7,0.3-1.4,0.8C112.6,33,112.3,33.3,112.3,33.6z M112.8,35.4v0.3c0,0.1,0,0.1,0.1,0.1l1.4-1.1
-                c0.8-0.5,1.1-1,1.1-1.3c0-0.2-0.1-0.2-0.3-0.2c-0.3,0-0.7,0.3-1.4,1C113.1,34.8,112.8,35.2,112.8,35.4z"></path><path class="st0 svelte-7y78nn" d="M128.5,58.7c-0.1-0.8-0.2-1.3-0.3-1.4c-0.2-0.1-0.5-0.2-1.1-0.5c-0.6-0.3-1.4-0.6-2.4-1
+                c0.8-0.5,1.1-1,1.1-1.3c0-0.2-0.1-0.2-0.3-0.2c-0.3,0-0.7,0.3-1.4,1C113.1,34.8,112.8,35.2,112.8,35.4z`),t(T,"class","st0 svelte-7y78nn"),t(T,"d",`M128.5,58.7c-0.1-0.8-0.2-1.3-0.3-1.4c-0.2-0.1-0.5-0.2-1.1-0.5c-0.6-0.3-1.4-0.6-2.4-1
                 c-2-0.8-3.2-1.2-3.4-1.2c-0.3,0-0.7,0.1-1.2,0.3c-0.5,0.2-0.9,0.3-1.2,0.3c-0.3,0-0.4-0.1-0.5-0.4c0.9-1.8,1.4-3.8,1.6-5.9
                 c0.1-1,0.1-2,0.2-3c0.1-1,0.1-2,0.2-3c0.1-1.2,0.1-2.9,0-5.1c-0.2-2.6-0.5-4-0.8-4.4c-0.8-0.3-1.4-0.5-1.8-0.7l-0.2-0.4
                 c0.1-0.3,0.3-0.6,0.7-0.8c2-1.2,4.1-2.9,6.2-4.9c0,0,0.1-0.1,0.3-0.3c0.1-0.2,0.3-0.4,0.5-0.7c0.2-0.4,0.6-0.7,1-0.8l0.4,0.5
@@ -458,7 +275,7 @@
                 c0.2,0,0.7-0.3,1.5-1c0.8-0.7,1.2-1.2,1.2-1.3c0-0.1-0.1-0.3-0.2-0.4c-0.3,0.3-0.6,0.4-0.8,0.4c-0.8,0.8-1.4,1.3-1.6,1.5
                 C134.4,31.8,134.3,32,134.3,32.2z M135.1,33.6c0,0.2,0.1,0.4,0.3,0.4c0.2,0,0.7-0.3,1.4-0.9c0.7-0.6,1.1-1.1,1.1-1.3
                 c0-0.1-0.1-0.2-0.2-0.2h-0.2c-0.2,0-0.7,0.3-1.4,0.8C135.4,33,135.1,33.3,135.1,33.6z M135.6,35.4v0.3c0,0.1,0,0.1,0.1,0.1l1.4-1.1
-                c0.8-0.5,1.1-1,1.1-1.3c0-0.2-0.1-0.2-0.3-0.2c-0.3,0-0.7,0.3-1.4,1C135.9,34.8,135.6,35.2,135.6,35.4z"></path><path class="st0 svelte-7y78nn" d="M145.2,65.5c-0.4,0-0.9,0.1-1.4,0.4c-0.6,0.3-1.1,0.5-1.4,0.5l-0.4-0.3c1.4-1.2,2.9-2.3,4.4-3.5
+                c0.8-0.5,1.1-1,1.1-1.3c0-0.2-0.1-0.2-0.3-0.2c-0.3,0-0.7,0.3-1.4,1C135.9,34.8,135.6,35.2,135.6,35.4z`),t(a,"class","st0 svelte-7y78nn"),t(a,"d",`M145.2,65.5c-0.4,0-0.9,0.1-1.4,0.4c-0.6,0.3-1.1,0.5-1.4,0.5l-0.4-0.3c1.4-1.2,2.9-2.3,4.4-3.5
                 c1.8-1.4,3-2.8,3.6-4.1c-0.5-1.6-1.9-2.8-4-3.7c-1.6-0.7-3.4-1.1-5.4-1.1v-0.2c0.1-0.1,0.2-0.2,0.5-0.5c0.3-0.2,0.6-0.5,1.1-0.8
                 c0.7-0.5,1.2-0.9,1.4-1.4c0.6-1.4,1-3.4,1.1-5.9V39c0-2,0-3.3,0-3.8c0-0.5,0-0.3,0.1,0.7c0-1.2-0.2-2.2-0.5-3.1l-1-0.5l-2.2,0.7
                 l-0.2-0.4c0.6-0.8,3.6-3.2,9-7.2l0.7-0.3l0.2,0.4v0.1l-0.6,0.8c0,0,0.1,0.4,0.5,1.2c0.2,0.1,0.6,0.4,1.4,0.9c0.6,0.3,1,0.6,1.2,0.9
@@ -535,7 +352,7 @@
                 c0-0.2-0.1-0.4-0.2-0.4c-0.3,0-0.8,0.3-1.6,1C164.7,59.1,164.3,59.5,164.3,59.7z M164.6,34.5c0,0.2,0.1,0.4,0.4,0.4
                 c0,0,0.3-0.2,1-0.7c1.5-1,2.3-1.8,2.3-2.3c0-0.1-0.1-0.2-0.3-0.2c-0.1,0-0.3,0.1-0.5,0.2c-0.2,0.1-0.4,0.3-0.6,0.5
                 c-0.2,0.2-0.4,0.4-0.6,0.5c-0.2,0.2-0.3,0.3-0.3,0.4C165.1,33.7,164.6,34.1,164.6,34.5z M168.2,29.4c-0.5,0-1.2,0.6-2.3,1.7
-                c-0.1,0.1-0.2,0.4-0.2,0.7c0.3,0,0.9-0.2,1.7-0.7c0.8-0.6,1.2-1,1.2-1.3C168.7,29.5,168.5,29.4,168.2,29.4z"></path><path class="st0 svelte-7y78nn" d="M223.9,58.3c-1-0.3-1.9-0.4-2.9-0.4c-4-0.4-6.3-0.6-6.8-0.7c-2.2-0.4-4.4-1.1-6.7-2.3l-0.1-0.2
+                c-0.1,0.1-0.2,0.4-0.2,0.7c0.3,0,0.9-0.2,1.7-0.7c0.8-0.6,1.2-1,1.2-1.3C168.7,29.5,168.5,29.4,168.2,29.4z`),t(S,"class","st0 svelte-7y78nn"),t(S,"d",`M223.9,58.3c-1-0.3-1.9-0.4-2.9-0.4c-4-0.4-6.3-0.6-6.8-0.7c-2.2-0.4-4.4-1.1-6.7-2.3l-0.1-0.2
                 c-3.7-2.4-6.4-4.9-8.2-7.3c-2.1-2.8-3.6-6.1-4.5-10c-0.2-0.7-0.2-1.4-0.2-2.3c0-2.7,1-5.5,2.9-8.4c0.8-1.1,1.7-2.3,2.7-3.5
                 c1.1-1.2,2.3-2.5,3.7-3.9c1.1-1,2.2-2,3.2-2.9s2.2-1.9,3.2-2.9c0.3-0.3,0.6-0.6,0.8-0.9c0.3-0.3,0.6-0.6,0.9-0.9
                 c0.8-0.9,1.4-1.3,1.8-1.3c0.4,0,0.5,0.1,0.5,0.4c-0.1,0.4-0.2,0.7-0.3,1c0.4,0.8,3.3,2,8.5,3.4c4.8,1.3,8.1,2,9.8,2
@@ -616,7 +433,7 @@
                 c0.7,0,1.6-0.7,2.8-2c0.9-0.9,1.7-1.9,2.5-2.8c0-0.1,0-0.2-0.2-0.2h-0.1C227.5,52.6,225.7,54.2,224.5,55.2z M225.8,20.5
                 c0,0.2,0.2,0.2,0.5,0.2c0.2,0,0.9-0.5,1.9-1.4c1.1-0.9,1.6-1.4,1.6-1.7c0-0.2-0.1-0.2-0.4-0.2c-0.2,0-0.9,0.5-2,1.4
                 C226.4,19.7,225.8,20.3,225.8,20.5z M228.2,20.8l0.3,0.2c0.3,0,0.6-0.2,1-0.5c0.3-0.3,0.6-0.6,1-0.9c1.1-0.8,1.6-1.4,1.6-1.9
-                c-0.3,0-0.5,0-0.7,0.1c-0.1,0.1-0.3,0.2-0.6,0.5c-0.3,0.2-0.7,0.6-1.2,1C228.6,20.2,228.2,20.7,228.2,20.8z"></path><path class="st0 svelte-7y78nn" d="M240.2,64.7c0.4,0,1,0.3,1.8,0.9c0.8,0.6,1.4,0.9,1.9,0.9c3.8,0,6.6-1.2,8.2-3.6c1.4-2,2-5,2-9
+                c-0.3,0-0.5,0-0.7,0.1c-0.1,0.1-0.3,0.2-0.6,0.5c-0.3,0.2-0.7,0.6-1.2,1C228.6,20.2,228.2,20.7,228.2,20.8z`),t(G,"class","st0 svelte-7y78nn"),t(G,"d",`M240.2,64.7c0.4,0,1,0.3,1.8,0.9c0.8,0.6,1.4,0.9,1.9,0.9c3.8,0,6.6-1.2,8.2-3.6c1.4-2,2-5,2-9
                 c0-2.4-0.5-5.9-1.4-10.4c-1.1-5.1-2.2-8.2-3.3-9.5c-1.2,0.2-1.9,4.9-1.9,14.1l0.2,1.6c0.6,0.9,1.5,1.6,2.5,2.2c0.3,0,0.9-0.1,2-0.5
                 l0.5,0.3l-0.4,0.8c-3.3,2.4-5.4,4-6.3,5c-0.2,0.2-0.3,0.4-0.5,0.6c-0.1,0.2-0.3,0.4-0.4,0.6c-0.4,0.5-0.7,0.8-1,0.8l-0.6-0.5
                 l0.1-0.6c-0.2-0.6-0.8-1.3-1.9-2c-1.1-0.8-2-1.2-2.6-1.2c0,0,0,0-0.1,0s-0.3,0-0.6,0.1c-0.4,0-0.7,0-1,0c-0.3-0.1-0.4-0.2-0.4-0.4
@@ -681,7 +498,7 @@
                  M258.7,47.3c0,0.2,0.1,0.2,0.2,0.2c0.2,0,0.8-0.3,1.6-1c0.8-0.7,1.2-1.1,1.2-1.3c0-0.2-0.1-0.3-0.3-0.3c-0.2,0-0.6,0.3-1.2,0.8
                 c-0.5,0.5-0.9,0.8-1,0.9C258.8,46.9,258.7,47.1,258.7,47.3z M258.7,49.4c0,0.1,0,0.2,0.1,0.2h0.1c0.2,0,0.5-0.1,0.7-0.4l0.5-0.5
                 c0.3-0.2,0.6-0.4,1-0.7c0.3-0.3,0.5-0.5,0.5-0.9h-0.4c-0.3,0-1.1,0.6-2.3,1.9c0,0.2-0.1,0.3-0.1,0.4V49.4z M258.7,51.3
-                c0,0.2,0.1,0.4,0.2,0.4h0.1c0.1-0.2,0.5-0.4,1.2-0.8c0.6-0.4,1-0.9,1-1.4C260.7,49.5,259.9,50.1,258.7,51.3z"></path><path class="st0 svelte-7y78nn" d="M274.3,58.7c-0.1-0.8-0.2-1.3-0.3-1.4c-0.2-0.1-0.5-0.2-1.1-0.5c-0.6-0.3-1.4-0.6-2.4-1
+                c0,0.2,0.1,0.4,0.2,0.4h0.1c0.1-0.2,0.5-0.4,1.2-0.8c0.6-0.4,1-0.9,1-1.4C260.7,49.5,259.9,50.1,258.7,51.3z`),t(F,"class","st0 svelte-7y78nn"),t(F,"d",`M274.3,58.7c-0.1-0.8-0.2-1.3-0.3-1.4c-0.2-0.1-0.5-0.2-1.1-0.5c-0.6-0.3-1.4-0.6-2.4-1
                 c-2-0.8-3.2-1.2-3.4-1.2c-0.3,0-0.7,0.1-1.2,0.3c-0.5,0.2-0.9,0.3-1.2,0.3c-0.3,0-0.4-0.1-0.5-0.4c0.9-1.8,1.4-3.8,1.6-5.9
                 c0.1-1,0.2-2,0.2-3c0.1-1,0.1-2,0.2-3c0.1-1.2,0.1-2.9,0-5.1c-0.2-2.6-0.5-4-0.8-4.4c-0.8-0.3-1.4-0.5-1.8-0.7l-0.2-0.4
                 c0.1-0.3,0.3-0.6,0.7-0.8c2-1.2,4.1-2.9,6.2-4.9c0,0,0.1-0.1,0.3-0.3c0.1-0.2,0.3-0.4,0.5-0.7c0.2-0.4,0.6-0.7,1-0.8l0.4,0.5
@@ -722,7 +539,7 @@
                 c0.8-0.7,1.2-1.2,1.2-1.3c0-0.1-0.1-0.3-0.2-0.4c-0.3,0.3-0.6,0.4-0.8,0.4c-0.8,0.8-1.4,1.3-1.6,1.5
                 C280.2,31.8,280.1,32,280.1,32.2z M280.9,33.6c0,0.2,0.1,0.4,0.3,0.4c0.2,0,0.7-0.3,1.4-0.9c0.7-0.6,1.1-1.1,1.1-1.3
                 c0-0.1-0.1-0.2-0.2-0.2h-0.2c-0.2,0-0.7,0.3-1.4,0.8C281.2,33,280.9,33.3,280.9,33.6z M281.4,35.4v0.3c0,0.1,0,0.1,0.1,0.1l1.4-1.1
-                c0.8-0.5,1.1-1,1.1-1.3c0-0.2-0.1-0.2-0.3-0.2c-0.3,0-0.7,0.3-1.4,1C281.7,34.8,281.4,35.2,281.4,35.4z"></path><path class="st0 svelte-7y78nn" d="M293.5,59l0.2-0.8c-0.4-0.6-1-1.2-2-1.8c-0.9-0.6-1.7-0.9-2.4-0.9c-0.2,0-0.8,0.2-1.8,0.5l-0.4-0.1l-0.2-0.4
+                c0.8-0.5,1.1-1,1.1-1.3c0-0.2-0.1-0.2-0.3-0.2c-0.3,0-0.7,0.3-1.4,1C281.7,34.8,281.4,35.2,281.4,35.4z`),t(B,"class","st0 svelte-7y78nn"),t(B,"d",`M293.5,59l0.2-0.8c-0.4-0.6-1-1.2-2-1.8c-0.9-0.6-1.7-0.9-2.4-0.9c-0.2,0-0.8,0.2-1.8,0.5l-0.4-0.1l-0.2-0.4
                 c0.4-0.5,0.8-1,1.1-1.3s0.6-0.7,0.9-0.9c0.8-1,1.2-4.5,1.2-10.5v-6.1c0-1.8-0.2-3-0.7-3.7c-0.4-0.2-0.9-0.4-1.3-0.4
                 c-0.1,0-0.6,0.1-1.4,0.4l-0.6-0.5l0.2-0.5c0.2-0.2,0.7-0.5,1.4-1c0.7-0.5,1.6-1.1,2.7-1.9c0.8-0.6,1.5-1.1,2.2-1.7s1.2-1,1.8-1.5
                 c0.6-0.6,1.1-1,1.4-1.1l0.3,0.2l0.2,0.4l-0.5,1.1c0.5,1.1,1.4,2,2.9,2.9c0.8,0.4,1.3,0.8,1.7,1c0.4,0.2,0.6,0.4,0.6,0.4l-0.1,0.4
@@ -755,7 +572,7 @@
                 c-0.8,0.6-1.3,1.1-1.3,1.4V44.8z M294.5,50.7c0,0.2,0.1,0.2,0.2,0.2c0.5,0,1.5-0.8,3.1-2.3c0-0.3-0.1-0.5-0.4-0.5
                 c-0.2,0-0.7,0.4-1.6,1.1C295,50.1,294.5,50.5,294.5,50.7z M298.3,51.8c-0.3,0-0.9,0.3-1.8,1c-0.8,0.7-1.2,1.2-1.2,1.5
                 c0.3,0,0.8-0.3,1.6-0.8c0.7-0.5,1.2-1,1.4-1.3V51.8z M296.6,54.9c0,0.2,0.1,0.3,0.3,0.3s0.6-0.3,1.3-0.8c0.7-0.6,1-1,1-1.3
-                c0-0.1-0.1-0.2-0.2-0.2c-0.2,0-0.6,0.3-1.4,0.8C297,54.3,296.6,54.7,296.6,54.9z"></path><path class="st0 svelte-7y78nn" d="M303.8,55.2c-0.1-1,0.6-2.5,2.1-4.6c1.5-2.2,2.3-3.3,2.3-3.4c0-0.2-0.4-1.3-1.1-3.5c-0.7-2.2-1.1-4-1.1-5.4
+                c0-0.1-0.1-0.2-0.2-0.2c-0.2,0-0.6,0.3-1.4,0.8C297,54.3,296.6,54.7,296.6,54.9z`),t(b,"class","st0 svelte-7y78nn"),t(b,"d",`M303.8,55.2c-0.1-1,0.6-2.5,2.1-4.6c1.5-2.2,2.3-3.3,2.3-3.4c0-0.2-0.4-1.3-1.1-3.5c-0.7-2.2-1.1-4-1.1-5.4
                 c0-1.6,0.3-2.9,0.8-4.1c0.3-0.5,1.6-1.7,4-3.5c1.4-1.1,2.5-2,3.3-2.6c0.8-0.6,1.2-1,1.3-1c0-0.1,0.1-0.2,0.3-0.4
                 c0.2-0.2,0.4-0.5,0.7-0.8c0.4-0.5,0.8-0.8,1.1-1l0.5,0.5l-0.1,0.8l0.3,0.7c0.9,0.4,2.4,0.9,4.6,1.5c2.1,0.5,3.7,0.7,4.8,0.7
                 c1.1,0,1.9-0.3,2.6-0.8l0.3-0.7l-0.5-1.1c-1-0.9-2.3-1.3-4-1.3c-0.7,0-1.4,0.1-2,0.4c-0.5,0.2-0.9,0.4-1.2,0.5
@@ -822,7 +639,7 @@
                 c0.7-0.6,1.1-1.1,1.1-1.3c0-0.2-0.1-0.2-0.4-0.2C328.5,44.6,327.7,45.3,326.3,46.7z M326.9,48.5c0,0.2,0.1,0.4,0.2,0.4
                 s0.6-0.3,1.4-0.8c0.8-0.6,1.1-1,1.1-1.1c0-0.2,0.1-0.4,0.1-0.5c0-0.1,0-0.2,0-0.2c-0.5,0-1.4,0.6-2.7,1.9
                 C326.9,48.1,326.9,48.2,326.9,48.5z M327.1,50.2L327.1,50.2L327.1,50.2c0.1,0.3,0.2,0.5,0.4,0.5s0.6-0.3,1.3-1
-                c0.8-0.6,1.1-1,1.1-1.2c0-0.3-0.1-0.4-0.3-0.4c-0.2,0-0.7,0.3-1.4,0.9C327.5,49.6,327.1,50,327.1,50.2z"></path><path class="st0 svelte-7y78nn" d="M341.4,59.2l0.1-0.9l-0.8-1.3c-3.7-1.8-5.7-2.6-6.1-2.5c-1.1,0.2-1.7,0.4-1.7,0.4c-0.2,0-0.4-0.1-0.4-0.2
+                c0.8-0.6,1.1-1,1.1-1.2c0-0.3-0.1-0.4-0.3-0.4c-0.2,0-0.7,0.3-1.4,0.9C327.5,49.6,327.1,50,327.1,50.2z`),t(K,"class","st0 svelte-7y78nn"),t(K,"d",`M341.4,59.2l0.1-0.9l-0.8-1.3c-3.7-1.8-5.7-2.6-6.1-2.5c-1.1,0.2-1.7,0.4-1.7,0.4c-0.2,0-0.4-0.1-0.4-0.2
                 c0.7-1.8,1.2-3.4,1.6-4.7c0.4-1.3,0.7-2.4,0.8-3.3c0.3-1.8,0.5-4.9,0.5-9.1c0-6.8-0.4-10.6-1.3-11.4c-0.7,0.1-1.2,0-1.4-0.3
                 l0.2-0.8c0.2-0.2,1.7-0.8,4.4-1.6c2.8-0.9,5-1.8,6.5-2.9c2.2-1.5,3.3-3.4,3.3-5.7v-0.8l-1.4-1.6l0.3-0.6l0.6-0.2l0.4,0.1
                 c0.8,1.3,1.2,2.3,1.2,3.1c0,1.6-0.7,3.2-2.2,5c-1.4,1.8-2.2,3.7-2.2,5.8v1.1l0.5,0.7l2.7,0.1c0.7,0,1.4-0.3,2-1
@@ -859,7 +676,7 @@
                 c0,0.2,0.1,0.3,0.4,0.3c0.6,0,1.8-0.8,3.5-2.5c0-0.4-0.1-0.5-0.4-0.5c-0.3,0-0.9,0.4-2,1.2C342.7,53.5,342.2,54,342.2,54.3z
                  M343.9,55c0,0.3,0.2,0.5,0.5,0.5c0.2,0,0.8-0.5,1.7-1.4c1-1,1.4-1.5,1.4-1.7v-0.2c-0.4,0-1.2,0.4-2.2,1.1S343.9,54.7,343.9,55z
                  M344.9,30.7c0,0.1,0.1,0.2,0.3,0.2c0.2,0,0.4-0.1,0.7-0.2c0.3-0.1,0.5-0.3,0.8-0.5c0.3-0.2,0.5-0.4,0.7-0.6
-                c0.2-0.2,0.3-0.4,0.3-0.6c0-0.2-0.1-0.4-0.2-0.4c-0.3,0-0.8,0.3-1.4,1C345.3,30.1,344.9,30.5,344.9,30.7z"></path><path class="st0 svelte-7y78nn" d="M358,59.1c0-0.2,0-0.4,0.1-0.7c0-0.3,0.1-0.6,0.1-0.7c-1.4-1.4-2.1-2.1-2.2-2.2c-0.9-0.7-1.8-1-2.8-1h-0.5
+                c0.2-0.2,0.3-0.4,0.3-0.6c0-0.2-0.1-0.4-0.2-0.4c-0.3,0-0.8,0.3-1.4,1C345.3,30.1,344.9,30.5,344.9,30.7z`),t(H,"class","st0 svelte-7y78nn"),t(H,"d",`M358,59.1c0-0.2,0-0.4,0.1-0.7c0-0.3,0.1-0.6,0.1-0.7c-1.4-1.4-2.1-2.1-2.2-2.2c-0.9-0.7-1.8-1-2.8-1h-0.5
                 c-0.2,0-0.4-0.2-0.4-0.4c0-0.4,0.3-0.9,0.9-1.3c0.4-0.3,0.7-0.5,0.9-0.7c0.2-0.2,0.3-0.3,0.4-0.4c0.8-1.3,1.2-4.4,1.2-9.4v-5.4
                 c0-2.6-0.5-4.1-1.6-4.3l-1.3,0.4l-0.4-0.4c0.1-0.1,0.5-0.5,1.2-1.1c0.7-0.7,1.8-1.6,3.2-2.8c2.8-2.4,4.3-3.6,4.4-3.7l0.4,0.3
                 c-0.2,0.7-0.3,1.1-0.3,1.4c0,0.4,0.3,0.7,0.8,0.9c0.9,0.4,1.6,0.6,1.9,0.8l0.2,0.4c0,0.8-0.1,1.4-0.1,1.8c0,0.4,0,0.7,0,0.9
@@ -947,7 +764,7 @@
                 c0.4-0.4,0.7-0.6,1.1-0.7c1.4-1.4,2-2,2-2c0-0.1-0.1-0.2-0.2-0.3h-0.4c-0.3,0-0.9,0.4-1.7,1.1C388.5,53.6,388.1,54.1,388.1,54.3z
                  M388.2,33.5c0,0.2,0,0.2,0.1,0.2c0.2,0,0.9-0.5,2.2-1.6c1.3-1.2,1.9-1.9,1.9-2.3c-0.2,0-0.9,0.4-2,1.2c-1.1,0.8-1.7,1.4-1.9,1.7
                 C388.3,33,388.2,33.2,388.2,33.5z M389.6,55c0,0.3,0.1,0.4,0.4,0.4h0.3c1.8-1.3,2.6-2.2,2.6-2.6c0-0.2-0.1-0.2-0.2-0.2
-                C392.2,52.6,391.2,53.4,389.6,55z"></path><path class="st0 svelte-7y78nn" d="M405.1,59.1c0-0.2,0-0.4,0.2-0.5c0.1-0.2,0.2-0.3,0.2-0.4c0-0.2-0.1-0.6-0.4-1c-2.4-1.3-4.9-2.2-7.5-2.8
+                C392.2,52.6,391.2,53.4,389.6,55z`),t(N,"class","st0 svelte-7y78nn"),t(N,"d",`M405.1,59.1c0-0.2,0-0.4,0.2-0.5c0.1-0.2,0.2-0.3,0.2-0.4c0-0.2-0.1-0.6-0.4-1c-2.4-1.3-4.9-2.2-7.5-2.8
                 l-0.7-0.7c0.4-0.6,0.8-1,1.4-1.3c1-2.3,1.6-6.9,1.6-13.7c0-2.3-0.3-4-0.8-5.1c-0.1,0-0.2,0-0.4,0c-0.2,0-0.4,0.1-0.7,0.1l-0.4-0.5
                 l0.2-0.5c2.2-0.8,4.6-2.2,7.4-4.4c1.4-1.2,2.5-2.1,3.4-2.7c0.9-0.6,1.5-1,1.8-1.2l0.2-0.1c0.3,0,0.5,0.1,0.5,0.4
                 c0,0.1-0.1,0.3-0.2,0.6c-0.1,0.3-0.2,0.5-0.2,0.6c0.4,1,2.1,1.9,5.2,2.8c2,0.6,3.6,1.1,4.6,1.4c1,0.3,1.6,0.5,1.7,0.5l0.4,0.6
@@ -1007,7 +824,7 @@
                 c-0.3,0-1,0.4-2,1.2C418.5,33.1,418,33.7,418,34z M418.4,52.8L418.4,52.8c0.1,0,0.1,0.1,0.1,0.1h0.1c0.3,0,0.7-0.3,1.2-0.8
                 c0.5-0.5,0.8-0.8,1.1-0.8c0.4-0.4,0.7-0.7,0.7-0.7c0-0.2,0-0.4-0.1-0.4s-0.6,0.4-1.6,1.2C418.8,52.2,418.4,52.7,418.4,52.8z
                  M419.2,54.1c0,0.1,0.1,0.2,0.2,0.2c0.3,0,0.6-0.2,1.1-0.7c0.4-0.5,0.7-0.8,0.8-0.8c0.2-0.1,0.3-0.1,0.4-0.2c0.1,0,0.2-0.1,0.2-0.1
-                c0-0.1,0.3-0.4,0.8-1c0-0.1-0.1-0.1-0.2-0.1c-0.2,0-0.9,0.4-1.9,1.3C419.7,53.4,419.2,53.9,419.2,54.1z"></path><path class="st0 svelte-7y78nn" d="M426.6,55.2c-0.1-1,0.6-2.5,2.1-4.6c1.5-2.2,2.3-3.3,2.3-3.4c0-0.2-0.4-1.3-1.1-3.5c-0.7-2.2-1.1-4-1.1-5.4
+                c0-0.1,0.3-0.4,0.8-1c0-0.1-0.1-0.1-0.2-0.1c-0.2,0-0.9,0.4-1.9,1.3C419.7,53.4,419.2,53.9,419.2,54.1z`),t(A,"class","st0 svelte-7y78nn"),t(A,"d",`M426.6,55.2c-0.1-1,0.6-2.5,2.1-4.6c1.5-2.2,2.3-3.3,2.3-3.4c0-0.2-0.4-1.3-1.1-3.5c-0.7-2.2-1.1-4-1.1-5.4
                 c0-1.6,0.3-2.9,0.8-4.1c0.3-0.5,1.6-1.7,4-3.5c1.4-1.1,2.5-2,3.3-2.6c0.8-0.6,1.2-1,1.3-1c0-0.1,0.1-0.2,0.3-0.4
                 c0.2-0.2,0.4-0.5,0.7-0.8c0.4-0.5,0.8-0.8,1.1-1l0.5,0.5l-0.1,0.8l0.3,0.7c0.9,0.4,2.4,0.9,4.6,1.5c2.1,0.5,3.7,0.7,4.8,0.7
                 c1.1,0,1.9-0.3,2.6-0.8l0.3-0.7l-0.5-1.1c-1-0.9-2.3-1.3-4-1.3c-0.7,0-1.4,0.1-2,0.4c-0.5,0.2-0.9,0.4-1.2,0.5
@@ -1074,33 +891,4 @@
                 c0-0.2-0.1-0.2-0.4-0.2S450.5,45.3,449.2,46.7z M449.7,48.5c0,0.2,0.1,0.4,0.2,0.4c0.1,0,0.6-0.3,1.4-0.8c0.8-0.6,1.1-1,1.1-1.1
                 c0-0.2,0.1-0.4,0.1-0.5c0-0.1,0-0.2,0-0.2c-0.5,0-1.4,0.6-2.7,1.9C449.7,48.1,449.7,48.2,449.7,48.5z M449.9,50.2L449.9,50.2
                 L449.9,50.2c0.1,0.3,0.2,0.5,0.4,0.5s0.6-0.3,1.3-1c0.8-0.6,1.1-1,1.1-1.2c0-0.3-0.1-0.4-0.3-0.4c-0.2,0-0.7,0.3-1.4,0.9
-                C450.3,49.6,449.9,50,449.9,50.2z"></path></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>
-
-
-
-        <p class="pulsate svelte-7y78nn">Turn your volume up!</p>
-
-        
-    </div></div>
-</main>
-
-
-		<script type="module" data-sveltekit-hydrate="1jhnmg4">
-			import { start } from "./_app/immutable/start-0b2e99ae.js";
-
-			start({
-				env: {},
-				paths: {"base":"","assets":""},
-				target: document.querySelector('[data-sveltekit-hydrate="1jhnmg4"]').parentNode,
-				version: "1671940865823",
-				hydrate: {
-					node_ids: [0, 2],
-					data: [null,{type:"data",data:{data:["a","b","c"]},uses:{}}],
-					form: null
-				}
-			});
-		</script>
-	</div>
-</body>
-
-</html>
+                C450.3,49.6,449.9,50,449.9,50.2z`),t(i,"version","1.1"),t(i,"id","Layer_1"),t(i,"xmlns","http://www.w3.org/2000/svg"),t(i,"xmlns:xlink","http://www.w3.org/1999/xlink"),t(i,"x","0px"),t(i,"y","0px"),t(i,"viewBox","0 0 463 73.5"),H4(i,"enable-background","new 0 0 463 73.5"),t(i,"xml:space","preserve"),t(Z,"class","pulsate svelte-7y78nn"),t(C,"class","christmas-title svelte-7y78nn")},m(g,Y){s(g,C,Y),j(C,i),j(i,E),j(E,p),j(i,u),j(u,m),j(u,D),j(u,I),j(u,T),j(u,a),j(u,S),j(u,G),j(u,F),j(u,B),j(u,b),j(u,K),j(u,H),j(u,N),j(u,A),j(i,R),j(i,$),j(i,X),j(i,P),j(i,q),j(i,J),j(i,U),j(i,W),j(i,L),j(i,V),j(i,w),j(i,o),j(i,O),j(i,Q),j(i,l0),j(C,h),j(C,Z),j(Z,d)},p:c0,i:c0,o:c0,d(g){g&&l(C)}}}class P4 extends p2{constructor(C){super(),V2(this,C,null,N4,_2,{})}}function W4(_){let C,i,E,p,u;return i=new K4({}),p=new P4({}),{c(){C=v("div"),p4(i.$$.fragment),E=M(),p4(p.$$.fragment),this.h()},l(m){C=f(m,"DIV",{class:!0});var D=n(C);V4(i.$$.fragment,D),E=z(D),V4(p.$$.fragment,D),D.forEach(l),this.h()},h(){t(C,"class","whole=wrapper")},m(m,D){s(m,C,D),_4(i,C,null),j(C,E),_4(p,C,null),u=!0},p:c0,i(m){u||(D4(i.$$.fragment,m),D4(p.$$.fragment,m),u=!0)},o(m){I4(i.$$.fragment,m),I4(p.$$.fragment,m),u=!1},d(m){m&&l(C),o4(i),o4(p)}}}class R4 extends p2{constructor(C){super(),V2(this,C,null,W4,_2,{})}}const q4="Title TK",G4="Description tk.",A4={title:q4,description:G4};function J4(){console.log("--- --- --- --- --- ---"),console.log("svelte-starter: 5.0.0"),console.log("build: 2022-12-24-23:01"),console.log("--- --- --- --- --- ---")}function U4(_){let C,i,E,p;return C=new a4({props:{title:_[1],description:_[2],url:_[3],preloadFont:_[0],keywords:_[4]}}),E=new R4({}),{c(){p4(C.$$.fragment),i=M(),p4(E.$$.fragment)},l(u){V4(C.$$.fragment,u),i=z(u),V4(E.$$.fragment,u)},m(u,m){_4(C,u,m),s(u,i,m),_4(E,u,m),p=!0},p:c0,i(u){p||(D4(C.$$.fragment,u),D4(E.$$.fragment,u),p=!0)},o(u){I4(C.$$.fragment,u),I4(E.$$.fragment,u),p=!1},d(u){o4(C,u),u&&l(i),o4(E,u)}}}function X4(_,C,i){let{data:E}=C;J4();const p=["https://pudding.cool/assets/fonts/tiempos/TiemposTextWeb-Regular.woff2","https://pudding.cool/assets/fonts/tiempos/TiemposTextWeb-Bold.woff2","https://pudding.cool/assets/fonts/national/National2Web-Regular.woff2","https://pudding.cool/assets/fonts/national/National2Web-Bold.woff2"],{title:u,description:m,url:D,keywords:I}=A4;return T4("copy",A4),T4("data",E.data),_.$$set=T=>{"data"in T&&i(5,E=T.data)},[p,u,m,D,I,E]}class Q4 extends p2{constructor(C){super(),V2(this,C,X4,U4,_2,{data:5})}}export{Q4 as default};
