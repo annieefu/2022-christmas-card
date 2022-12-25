@@ -56,7 +56,7 @@
             -moz-animation: fadeIn 3s;
             -o-animation: fadeIn 3s;
             -ms-animation: fadeIn 3s;
-            animation-delay: 5.5s;
+            animation-delay: 7s;
             animation-fill-mode: forwards;
 	}
 
